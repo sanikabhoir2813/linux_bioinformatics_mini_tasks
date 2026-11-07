@@ -1,0 +1,16 @@
+===== FASTA ANALYSIS REPORT =====
+
+File name: sequences.fasta
+Number of sequences: 5
+Total lines: 9
+Total DNA bases: 64
+File size: 168 bytes
+
+Sequence Headers:
+>Synthetic_Sample_1
+>Synthetic_Sample_2
+>Synthetic_Sample_3
+>Synthetic_Sample_4
+>Synthetic_Sample_5
+
+===== ANALYSIS COMPLETE =====
